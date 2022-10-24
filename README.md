@@ -4,7 +4,7 @@ My name is **Jordan Lin**. I am a second-year computer science major and mathema
 
 My research interests include computer vision, optimization, generative vision, image processing, and natural language processing. You can projects relating to those (and *not*) in my repositories!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuanhenglin&layout=compact&exclude_repo=fahrenheit-denialists)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuanhenglin&layout=compact&theme=dark&exclude_repo=fahrenheit-denialists)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuanhenglin)](https://github.com/anuraghazra/github-readme-stats)
