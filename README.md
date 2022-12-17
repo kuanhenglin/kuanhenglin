@@ -2,7 +2,7 @@
 
 My name is **Jordan Lin**. I am a second-year computer science major and mathematics minor at UCLA.
 
-My research interests include computer vision, optimization, generative vision, image processing, and natural language processing. You can projects relating to those (and *not*) in my repositories!
+My research interests include computer vision, optimization, generative vision, image processing, and natural language processing. You can see projects relating to those (and *not*) in my repositories!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuanhenglin&layout=compact&theme=dark&exclude_repo=fahrenheit-denialists)](https://github.com/anuraghazra/github-readme-stats)
 
