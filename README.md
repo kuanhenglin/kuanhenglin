@@ -1,6 +1,6 @@
 ### Welcome :)
 
-My name is **Jordan Lin**. I am a third-year computer science major and mathematics minor at UCLA. Check out my website [here](https://kuanhenglin.github.io)!
+My name is **Jordan Lin**. I am a fourth-year Computer Science major and Mathematics minor at UCLA. Check out my website [here](https://kuanhenglin.github.io)!
 
 My research interests include computer vision, optimization, generative vision, image processing, and natural language processing. You can see projects relating to those (and *not*) in my repositories!
 
